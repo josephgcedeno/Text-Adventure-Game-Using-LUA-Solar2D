@@ -1,6 +1,7 @@
 # Game Preview
-- ![Preview1](https://raw.githubusercontent.com/josephgcedeno/Text-Adventure-Game-Using-LUA-Solar2D/master/images/Poster.jpg)
-- ![Preview2](https://raw.githubusercontent.com/josephgcedeno/Text-Adventure-Game-Using-LUA-Solar2D/master/images/StartPoster.png)
+<img src="https://raw.githubusercontent.com/josephgcedeno/Text-Adventure-Game-Using-LUA-Solar2D/master/images/Poster.jpg" width="200">
+<img src="https://raw.githubusercontent.com/josephgcedeno/Text-Adventure-Game-Using-LUA-Solar2D/master/images/StartPoster.png" width="200">
+
 # Setup:
 - Download SOLAR2D
 
