@@ -1,0 +1,13 @@
+minus sa scene 4 if engage immediatetly -5
+
+minus sa scene 5 choice 2 (Health - 10)
+
+
+
+
+
+-------------------
+
+
+1. 162x162
+2. 108x108
