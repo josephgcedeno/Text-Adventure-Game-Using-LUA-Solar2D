@@ -5,5 +5,5 @@
  </div>
 
 # Setup:
-- Download APK [Man Hunt.apk](https://drive.google.com/file/d/1qop-6vhkm9dOuNNNZLWTTiz0voPMRskr/view?usp=sharing)
+- Download [Man Hunt.apk](https://drive.google.com/file/d/1qop-6vhkm9dOuNNNZLWTTiz0voPMRskr/view?usp=sharing)
 
